@@ -13,7 +13,6 @@ import Footer from './Footer.jsx';
 function App() {
   return (
     <div className="relative">
-      {/* All your sections here */}
       <HeroSection />
       <LuxuryStatement />
       <FeaturedProjects />
